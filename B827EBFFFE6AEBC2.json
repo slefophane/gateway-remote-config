@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE6AEBC2",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 25.66871,
+    "ref_longitude": 28.08734,
+    "ref_altitude": 1254,
+    "contact_email": "lefophanes@gmail.com",
+    "description": "TTN CoolLink test"
+  }
+}
